@@ -42,8 +42,7 @@ height: 200px auto; /* Should be removed. Only for demonstration */
 background-color: #f1f1f1;
 padding: 10px;
 }
-</style>
-<style>
+/* Style the button */
 .btn {
 background-color: #4CAF50;
 border: none;
